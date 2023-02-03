@@ -1,0 +1,38 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+
+#heading{
+	margin-top: 70px;
+}
+
+.row h1{
+	border-left: 4px solid tan;
+	padding-left: 25px;
+	font-family: unset;
+	line-height: 55px;
+}
+
+#heading p{
+	padding-left: 25px;
+}
+
+.row h1 span{
+	color: #007bff;
+}
+
+#heading2{
+	margin-top: 70px;
+}
+
+#heading2 h5{
+	margin-bottom: 15px;
+}
+
+#heading2 p{
+	font-size: 14px;
+	line-height: 25px;
+
+}
